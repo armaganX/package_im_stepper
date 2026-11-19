@@ -45,7 +45,7 @@ The last way to control the stepper is by enabling the `stepTapping` property. L
 ### Code
 
 ```dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'stepper.dart';
 
@@ -257,7 +257,7 @@ Following the `build()` method, we define the next and previous buttons which co
 ### Code
 
 ```Dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'stepper.dart';
 

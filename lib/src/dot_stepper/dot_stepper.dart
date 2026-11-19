@@ -1,6 +1,6 @@
 library dot_stepper;
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import '../core/decorations.dart';
 import 'core/dot_offset.dart';

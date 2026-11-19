@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Takes center and radius of a dot, then calculates the left-dx, top-dy, right-dx, and bottom-dy of a dot.
 class DotOffset {
